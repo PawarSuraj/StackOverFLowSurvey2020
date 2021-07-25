@@ -4,3 +4,6 @@ I have used python for analysis and libraries like pandas numpy and matplotlib.
 The UI is created using Streamlit library for which i have included a tutorial file as well.
 I have used DecisionTreeRegressor from sklearn library for predicting the user salary
 The input for salary prediction is Country, Education and Years of Coding Experience.
+
+To startoff first make sure you have all the tools and libraries installed.
+then open stackzOverFlowServey.ipynb notebook.
